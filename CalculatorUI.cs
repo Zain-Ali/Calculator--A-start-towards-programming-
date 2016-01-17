@@ -39,6 +39,24 @@ namespace Calculator
         {
             // to do
         }
+
+        private void oneButton_Click(object sender, EventArgs e)
+        {
+            // to do
+
+        }
+
+        private void Button_Click(object sender, EventArgs e)
+        {
+            Button userPressedbuttonNmber = (Button)sender;
+            userInputTestBox.Text = userInputTestBox.Text + userPressedbuttonNmber.Text;
+        }
+
+        private void Operator_Click(object sender, EventArgs e)
+        {
+            Button userPressedbuttonOperator = (Button)sender;
+            userInputTestBox.Text = userInputTestBox.Text + userPressedbuttonOperator.Text;
+        }
     }
 }
 
