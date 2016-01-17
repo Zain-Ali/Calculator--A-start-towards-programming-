@@ -34,6 +34,11 @@ namespace Calculator
                 MessageBox.Show("Please only enter numbers");                   
             }
         }
+
+        private void zeroButton_Click(object sender, EventArgs e)
+        {
+            // to do
+        }
     }
 }
 

@@ -222,6 +222,7 @@
             this.zeroButton.TabIndex = 16;
             this.zeroButton.Text = "0";
             this.zeroButton.UseVisualStyleBackColor = true;
+            this.zeroButton.Click += new System.EventHandler(this.zeroButton_Click);
             // 
             // basicCalculatorButton
             // 
