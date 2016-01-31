@@ -50,6 +50,7 @@ namespace Calculator
         {
             Button userPressedbuttonNmber = (Button)sender;
             userInputTestBox.Text = userInputTestBox.Text + userPressedbuttonNmber.Text;
+
         }
 
         private void Operator_Click(object sender, EventArgs e)

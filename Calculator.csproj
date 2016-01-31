@@ -45,13 +45,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculator.cs" />
     <Compile Include="CalculatorUI.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CalculatorUI.Designer.cs">
       <DependentUpon>CalculatorUI.cs</DependentUpon>
     </Compile>
-    <Compile Include="Calculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CalculatorUI.resx">
       <DependentUpon>CalculatorUI.cs</DependentUpon>
@@ -77,6 +77,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CalculatorUI\CalculatorUI.csproj">
+      <Project>{ee2a0d90-c761-4f3c-b777-ffaa31acb852}</Project>
+      <Name>CalculatorUI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
