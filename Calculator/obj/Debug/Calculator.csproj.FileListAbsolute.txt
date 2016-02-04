@@ -8,3 +8,6 @@ C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\Calculator\bin\
 C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
 C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator\obj\Debug\Calculator.exe
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator\obj\Debug\Calculator.pdb
