@@ -11,3 +11,12 @@ C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\Calculator\obj\
 C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator\bin\Debug\Calculator.exe.config
 C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator\obj\Debug\Calculator.exe
 C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\bin\Debug\Calculator.exe
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\bin\Debug\CalculatorUI.dll
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\bin\Debug\CalculatorUI.pdb
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.exe
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.pdb
