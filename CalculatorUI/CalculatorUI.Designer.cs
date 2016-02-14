@@ -48,7 +48,6 @@
             this.dotButton = new System.Windows.Forms.Button();
             this.zeroButton = new System.Windows.Forms.Button();
             this.basicCalculatorButton = new System.Windows.Forms.Button();
-            this.scientificCalculatorButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // userInputTestBox
@@ -251,21 +250,11 @@
             this.basicCalculatorButton.Text = "Basic Calculator";
             this.basicCalculatorButton.UseVisualStyleBackColor = true;
             // 
-            // scientificCalculatorButton
-            // 
-            this.scientificCalculatorButton.Location = new System.Drawing.Point(228, -3);
-            this.scientificCalculatorButton.Name = "scientificCalculatorButton";
-            this.scientificCalculatorButton.Size = new System.Drawing.Size(115, 23);
-            this.scientificCalculatorButton.TabIndex = 22;
-            this.scientificCalculatorButton.Text = "Scientific Calculator";
-            this.scientificCalculatorButton.UseVisualStyleBackColor = true;
-            // 
             // CalculatorUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(341, 334);
-            this.Controls.Add(this.scientificCalculatorButton);
             this.Controls.Add(this.basicCalculatorButton);
             this.Controls.Add(this.equalButton);
             this.Controls.Add(this.plusOperatorButton);
@@ -315,7 +304,6 @@
         private System.Windows.Forms.Button dotButton;
         private System.Windows.Forms.Button zeroButton;
         private System.Windows.Forms.Button basicCalculatorButton;
-        private System.Windows.Forms.Button scientificCalculatorButton;
     }
 }
 
