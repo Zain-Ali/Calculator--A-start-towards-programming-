@@ -33,8 +33,8 @@
             this.eightButton = new System.Windows.Forms.Button();
             this.nineButton = new System.Windows.Forms.Button();
             this.divideOperatorButton = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.CEButton = new System.Windows.Forms.Button();
+            this.Clear = new System.Windows.Forms.Button();
             this.multiplyOperatorButton = new System.Windows.Forms.Button();
             this.sixButton = new System.Windows.Forms.Button();
             this.fiveButton = new System.Windows.Forms.Button();
@@ -101,23 +101,25 @@
             this.divideOperatorButton.UseVisualStyleBackColor = true;
             this.divideOperatorButton.Click += new System.EventHandler(this.Operator_Click);
             // 
-            // button5
+            // CEButton
             // 
-            this.button5.Location = new System.Drawing.Point(272, 105);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(59, 45);
-            this.button5.TabIndex = 5;
-            this.button5.Text = "CE";
-            this.button5.UseVisualStyleBackColor = true;
+            this.CEButton.Location = new System.Drawing.Point(272, 105);
+            this.CEButton.Name = "CEButton";
+            this.CEButton.Size = new System.Drawing.Size(59, 45);
+            this.CEButton.TabIndex = 5;
+            this.CEButton.Text = "CE";
+            this.CEButton.UseVisualStyleBackColor = true;
+            this.CEButton.Click += new System.EventHandler(this.CEButton_Click);
             // 
-            // button6
+            // Clear
             // 
-            this.button6.Location = new System.Drawing.Point(271, 160);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(59, 45);
-            this.button6.TabIndex = 10;
-            this.button6.Text = "C";
-            this.button6.UseVisualStyleBackColor = true;
+            this.Clear.Location = new System.Drawing.Point(271, 160);
+            this.Clear.Name = "Clear";
+            this.Clear.Size = new System.Drawing.Size(59, 45);
+            this.Clear.TabIndex = 10;
+            this.Clear.Text = "C";
+            this.Clear.UseVisualStyleBackColor = true;
+            this.Clear.Click += new System.EventHandler(this.button6_Click);
             // 
             // multiplyOperatorButton
             // 
@@ -273,12 +275,12 @@
             this.Controls.Add(this.threeButton);
             this.Controls.Add(this.twoButton);
             this.Controls.Add(this.oneButton);
-            this.Controls.Add(this.button6);
+            this.Controls.Add(this.Clear);
             this.Controls.Add(this.multiplyOperatorButton);
             this.Controls.Add(this.sixButton);
             this.Controls.Add(this.fiveButton);
             this.Controls.Add(this.fourButton);
-            this.Controls.Add(this.button5);
+            this.Controls.Add(this.CEButton);
             this.Controls.Add(this.divideOperatorButton);
             this.Controls.Add(this.nineButton);
             this.Controls.Add(this.eightButton);
@@ -298,8 +300,8 @@
         private System.Windows.Forms.Button eightButton;
         private System.Windows.Forms.Button nineButton;
         private System.Windows.Forms.Button divideOperatorButton;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button CEButton;
+        private System.Windows.Forms.Button Clear;
         private System.Windows.Forms.Button multiplyOperatorButton;
         private System.Windows.Forms.Button sixButton;
         private System.Windows.Forms.Button fiveButton;

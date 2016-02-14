@@ -166,6 +166,25 @@ namespace Calculator
                     break;
             }
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            userInputTestBox.Clear();
+            count = 0;
+        }
+
+        private void CEButton_Click(object sender, EventArgs e)
+        {
+            if (number == 0 && userInputTestBox.TextLength > 0)
+            {
+                number = 0;
+                userInputTestBox.Clear();
+            }
+            else if (number > 0 && userInputTestBox.TextLength > 0)
+            {
+                userInputTestBox.Clear();
+            }
+        }
     }
 }
 
