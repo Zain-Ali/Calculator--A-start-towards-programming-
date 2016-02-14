@@ -218,6 +218,7 @@
             this.plusOperatorButton.Text = "+";
             this.plusOperatorButton.UseVisualStyleBackColor = true;
             this.plusOperatorButton.Click += new System.EventHandler(this.Operator_Click);
+            this.plusOperatorButton.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.userInputTestBox_KeyPress);
             // 
             // dotButton
             // 
@@ -257,7 +258,7 @@
             this.scientificCalculatorButton.Text = "Scientific Calculator";
             this.scientificCalculatorButton.UseVisualStyleBackColor = true;
             // 
-            // Calculator
+            // CalculatorUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -283,7 +284,7 @@
             this.Controls.Add(this.eightButton);
             this.Controls.Add(this.sevenButton);
             this.Controls.Add(this.userInputTestBox);
-            this.Name = "Calculator";
+            this.Name = "CalculatorUI";
             this.Text = "Basic Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();

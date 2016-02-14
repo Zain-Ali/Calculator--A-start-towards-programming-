@@ -20,3 +20,4 @@ C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calcula
 C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
 C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.exe
 C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

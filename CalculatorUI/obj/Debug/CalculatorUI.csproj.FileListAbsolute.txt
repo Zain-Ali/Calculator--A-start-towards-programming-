@@ -6,3 +6,12 @@ C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\CalculatorUI\bi
 C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\CalculatorUI\bin\Debug\CalculatorUI.pdb
 C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\CalculatorUI\obj\Debug\CalculatorUI.dll
 C:\Users\Zain A\documents\visual studio 2015\Projects\Calculator\CalculatorUI\obj\Debug\CalculatorUI.pdb
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\bin\Debug\CalculatorUI.dll.config
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\bin\Debug\CalculatorUI.dll
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\bin\Debug\CalculatorUI.pdb
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\obj\Debug\CalculatorUI.csprojResolveAssemblyReference.cache
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\obj\Debug\Calculator.CalculatorUI.resources
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.Cache
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\obj\Debug\CalculatorUI.dll
+C:\Users\Zain A\Documents\Visual Studio 2015\Projects\Calculator Project\Calculator--A-start-towards-programming-\CalculatorUI\obj\Debug\CalculatorUI.pdb
